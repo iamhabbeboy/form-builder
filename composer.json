@@ -1,0 +1,11 @@
+{
+    "name": "form-generator/iamhabbeboy",
+    "description": "it allow you to generate HTML form using shell",
+    "authors": [
+        {
+            "name": "iamhabbeboy",
+            "email": "iamhabbeboy@gmail.com"
+        }
+    ],
+    "require": {}
+}
